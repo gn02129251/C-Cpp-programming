@@ -1,2 +1,2 @@
 # C-Cpp-programming
-Learning C/C++ progromming.
+Learning C/C++ programming.
